@@ -12,6 +12,7 @@
 
 ```
 docker build .
+docker build -f MyDockerfile /path/to/dir
 ```
 
 ## Цепочка FROM в Dockerfile
