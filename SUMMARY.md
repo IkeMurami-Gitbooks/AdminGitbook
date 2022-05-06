@@ -107,6 +107,7 @@
     * [Размеры дисков, директорий, файлов](operacionnye-sistemy/linux/failovaya-sistema/razmery-diskov-direktorii-failov.md)
     * [Работа с дисками](operacionnye-sistemy/linux/failovaya-sistema/rabota-s-diskami.md)
     * [Работа с флешками и другими монтированными устройствами](operacionnye-sistemy/linux/failovaya-sistema/rabota-s-fleshkami-i-drugimi-montirovannymi-ustroistvami.md)
+  * [Network](operacionnye-sistemy/linux/network.md)
   * [Background Services and Crons](operacionnye-sistemy/linux/background-services-and-crons.md)
   * [Troubleshooting](operacionnye-sistemy/linux/troubleshooting/README.md)
     * [Если нет звука](operacionnye-sistemy/linux/cases/net-zvuka.md)
