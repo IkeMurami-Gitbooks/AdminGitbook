@@ -109,7 +109,7 @@
     * [Работа с флешками и другими монтированными устройствами](operacionnye-sistemy/linux/failovaya-sistema/rabota-s-fleshkami-i-drugimi-montirovannymi-ustroistvami.md)
   * [Background Services and Crons](operacionnye-sistemy/linux/background-services-and-crons.md)
   * [Troubleshooting](operacionnye-sistemy/linux/troubleshooting/README.md)
-    * [Если нет звука](operacionnye-sistemy/linux/troubleshooting/net-zvuka.md)
+    * [Если нет звука](operacionnye-sistemy/linux/cases/net-zvuka.md)
   * [Cases](operacionnye-sistemy/linux/cases/README.md)
     * [Отвязать процесс от родителя в bash](operacionnye-sistemy/linux/cases/otvyazat-process-ot-roditelya-v-bash.md)
     * [Нормальная консоль (возможность удаления данных, а не ^\[\[D)](operacionnye-sistemy/linux/cases/normalnaya-konsol-vozmozhnost-udaleniya-dannykh-a-ne-d.md)
