@@ -44,6 +44,7 @@
     * [Vulnerabilities](pesochnicy-konteinery/openshift/security/vulnerabilities.md)
     * [CIS](pesochnicy-konteinery/openshift/security/cis.md)
 * [VMWare](pesochnicy-konteinery/vmware/README.md)
+  * [Workspace ONE Access](pesochnicy-konteinery/vmware/workspace-one-access.md)
   * [vSphere](pesochnicy-konteinery/vmware/vsphere.md)
   * [vCenter](pesochnicy-konteinery/vmware/vcenter.md)
   * [Learn](pesochnicy-konteinery/vmware/learn.md)
