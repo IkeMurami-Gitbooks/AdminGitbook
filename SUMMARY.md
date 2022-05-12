@@ -45,6 +45,7 @@
     * [CIS](pesochnicy-konteinery/openshift/security/cis.md)
 * [VMWare](pesochnicy-konteinery/vmware/README.md)
   * [Workspace ONE Access](pesochnicy-konteinery/vmware/workspace-one-access.md)
+  * [Workspace One UEM SSRF (AirWatch)](pesochnicy-konteinery/vmware/workspace-one-uem-ssrf-airwatch.md)
   * [vSphere](pesochnicy-konteinery/vmware/vsphere.md)
   * [vCenter](pesochnicy-konteinery/vmware/vcenter.md)
   * [Learn](pesochnicy-konteinery/vmware/learn.md)
