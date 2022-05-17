@@ -113,6 +113,7 @@
   * [Network](operacionnye-sistemy/linux/network.md)
   * [Security](operacionnye-sistemy/linux/security/README.md)
     * [Разграничение доступа](operacionnye-sistemy/linux/security/ac/README.md)
+      * [namespaces & cgroups](operacionnye-sistemy/linux/security/ac/namespaces-and-cgroups.md)
       * [AppArmor](operacionnye-sistemy/linux/security/ac/apparmor.md)
       * [SELinux](operacionnye-sistemy/linux/security/ac/selinux.md)
   * [Background Services and Crons](operacionnye-sistemy/linux/background-services-and-crons.md)
