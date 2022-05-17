@@ -50,6 +50,8 @@
   * [vSphere](pesochnicy-konteinery/vmware/vsphere.md)
   * [vCenter](pesochnicy-konteinery/vmware/vcenter.md)
   * [Learn](pesochnicy-konteinery/vmware/learn.md)
+  * [Horizon Security Server](pesochnicy-konteinery/vmware/horizon-security-server.md)
+  * [VMWare log4j](pesochnicy-konteinery/vmware/vmware-log4j.md)
 * [Tools](pesochnicy-konteinery/tools/README.md)
   * [Moby](pesochnicy-konteinery/tools/moby.md)
   * [Security](pesochnicy-konteinery/tools/security.md)
