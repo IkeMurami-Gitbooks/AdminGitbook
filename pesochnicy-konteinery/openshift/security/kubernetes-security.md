@@ -4,7 +4,7 @@
 
 ## Cluster Monitoring
 
-Сервисы Cluster Monitoring устанавливаются на все ноды. Базируется все на [Prometheus](https://prometheus.io). Сюда входит и [Grafana](https://grafana.com) Dashboard.
+Сервисы Cluster Monitoring устанавливаются на все ноды. Базируется все на [Prometheus](https://prometheus.io/). Сюда входит и [Grafana](https://grafana.com/) Dashboard.
 
 ## Cluster Logging
 

@@ -40,7 +40,7 @@ $ sudo crontab -e
 $ vim /etc/cron.d/my-backup
 ```
 
-The syntax of crontab entries is captured by the diagram below. Use the [https://crontab.guru/](https://crontab.guru)
+The syntax of crontab entries is captured by the diagram below. Use the [https://crontab.guru/](https://crontab.guru/)
 
 ![](../../.gitbook/assets/image.png)
 

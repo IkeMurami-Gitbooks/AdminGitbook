@@ -6,9 +6,9 @@
 Про безопасность AWS, Azure, GCP
 {% endfile %}
 
-Проект, в котором собраны всякие заметки (не мало) по безопасности облаков [https://hackingthe.cloud/](https://hackingthe.cloud). git проекта: [https://github.com/Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
+Проект, в котором собраны всякие заметки (не мало) по безопасности облаков [https://hackingthe.cloud/](https://hackingthe.cloud/). git проекта: [https://github.com/Hacking-the-Cloud/hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
 
-И еще **лучше** ресурс, чем предыдущий: [https://cloudsecdocs.com/](https://cloudsecdocs.com)
+И еще **лучше** ресурс, чем предыдущий: [https://cloudsecdocs.com/](https://cloudsecdocs.com/)
 
 ## Примеры
 

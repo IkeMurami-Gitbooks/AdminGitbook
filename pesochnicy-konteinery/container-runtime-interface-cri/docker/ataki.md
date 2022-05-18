@@ -19,7 +19,7 @@ Dockle: [https://github.com/goodwithtech/dockle](https://github.com/goodwithtech
 Trivy: [https://github.com/knqyf263/trivy](https://github.com/knqyf263/trivy)
 
 Security Issue / уязвимости в популярных контейнерах с Docker Hub\
-[https://containers.goodwith.tech/](https://containers.goodwith.tech)
+[https://containers.goodwith.tech/](https://containers.goodwith.tech/)
 
 ## Papers
 

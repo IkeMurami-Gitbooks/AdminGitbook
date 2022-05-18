@@ -377,5 +377,5 @@ $ git -c http.sslVerify=false clone https://...
 
 ## Git GUI
 
-SourceTree - [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com)
+SourceTree - [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 

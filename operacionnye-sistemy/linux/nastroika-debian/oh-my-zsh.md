@@ -1,6 +1,6 @@
 # Oh My ZSH
 
-site: [https://ohmyz.sh/](https://ohmyz.sh)
+site: [https://ohmyz.sh/](https://ohmyz.sh/)
 
 ```
 apt-get install zsh

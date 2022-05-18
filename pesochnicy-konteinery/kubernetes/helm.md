@@ -9,7 +9,7 @@ Netpol - политики взаимодействия между контейн
 Configmap\
 Ingress: настройка контроллера
 
-helm add repo \<name> [kubernetes-charts.storage.googleapis.com/](https://kubernetes-charts.storage.googleapis.com) - добавление дефолтоного репозитория
+helm add repo \<name> [kubernetes-charts.storage.googleapis.com/](https://kubernetes-charts.storage.googleapis.com/) - добавление дефолтоного репозитория
 
 helm update repo&#x20;
 

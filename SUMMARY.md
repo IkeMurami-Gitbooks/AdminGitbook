@@ -90,7 +90,6 @@
     * [rDNS (или PTR-записи)](network/untitled/dns/rdns.md)
     * [Zone Transfer](network/untitled/dns/zone-transfer.md)
     * [Купить свой домен](network/untitled/dns/kupit-svoi-domen.md)
-  * [ftp](network/untitled/ftp.md)
   * [ssh](network/untitled/ssh.md)
   * [snmp](network/untitled/snmp.md)
   * [icmp](network/untitled/icmp.md)
