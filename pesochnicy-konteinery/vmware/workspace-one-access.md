@@ -10,4 +10,4 @@ PoC: [https://github.com/sherlocksecurity/VMware-CVE-2022-22954](https://github.
 
 ## CVE-2022-22972: Auth Bypass
 
-На Linux серверах. Эксплоита нет, патч вышел, скачать не могу: [https://kb.vmware.com/s/article/88438](https://kb.vmware.com/s/article/88438)
+На Linux серверах. Вероятно связан с VMWare Horizon. Эксплоита нет, патч вышел, скачать не могу: [https://kb.vmware.com/s/article/88438](https://kb.vmware.com/s/article/88438)
