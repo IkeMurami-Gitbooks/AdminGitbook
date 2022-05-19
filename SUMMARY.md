@@ -216,11 +216,6 @@
   * [Zabbix](tools/monitoring-seti-prilozhenii-i-sobytii/zabbix.md)
   * [snort](tools/monitoring-seti-prilozhenii-i-sobytii/snort.md)
   * [moloch](tools/monitoring-seti-prilozhenii-i-sobytii/moloch.md)
-* [Брокеры сообщений](tools/brokery-soobshenii/README.md)
-  * [Зачем нужны](tools/brokery-soobshenii/zachem-nuzhny.md)
-  * [RabbitMQ](tools/brokery-soobshenii/rabbitmq.md)
-  * [Apache Kafka](tools/brokery-soobshenii/kafka.md)
-  * [RedisMQ](tools/brokery-soobshenii/redismq.md)
 
 ## Cloud
 
