@@ -117,6 +117,7 @@
       * [namespaces & cgroups](operacionnye-sistemy/linux/security/ac/namespaces-and-cgroups.md)
       * [AppArmor](operacionnye-sistemy/linux/security/ac/apparmor.md)
       * [SELinux](operacionnye-sistemy/linux/security/ac/selinux.md)
+      * [eBPF](operacionnye-sistemy/linux/security/ac/ebpf.md)
   * [Background Services and Crons](operacionnye-sistemy/linux/background-services-and-crons.md)
   * [Troubleshooting](operacionnye-sistemy/linux/troubleshooting/README.md)
     * [Если нет звука](operacionnye-sistemy/linux/cases/net-zvuka.md)
