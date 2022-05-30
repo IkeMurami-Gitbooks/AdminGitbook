@@ -118,6 +118,8 @@
       * [AppArmor](operacionnye-sistemy/linux/security/ac/apparmor.md)
       * [SELinux](operacionnye-sistemy/linux/security/ac/selinux.md)
       * [eBPF](operacionnye-sistemy/linux/security/ac/ebpf.md)
+      * [audit.d](operacionnye-sistemy/linux/security/ac/audit.d.md)
+      * [Seccomp](operacionnye-sistemy/linux/security/ac/seccomp.md)
   * [Background Services and Crons](operacionnye-sistemy/linux/background-services-and-crons.md)
   * [Troubleshooting](operacionnye-sistemy/linux/troubleshooting/README.md)
     * [Если нет звука](operacionnye-sistemy/linux/cases/net-zvuka.md)
