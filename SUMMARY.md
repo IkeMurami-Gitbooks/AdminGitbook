@@ -174,6 +174,7 @@
   * [MongoDB](tools/databases/mongodb.md)
   * [postgres](tools/databases/postgres.md)
   * [mysql](tools/databases/mysql.md)
+  * [H2 Database](tools/databases/h2-database.md)
 * [Servers](tools/servers/README.md)
   * [WEB](tools/servers/web/README.md)
     * [Apache](tools/servers/web/apache.md)
