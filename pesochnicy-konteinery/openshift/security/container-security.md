@@ -1,5 +1,18 @@
 # Container Security
 
+## Отдельные рекомендации
+
+* Не рекомендуется использовать Persistent Volumes (PV) и другие решения, требующие хранения данных на стороне OpenShift
+* Не запускать контейнеры с привилегиями (securityContext.privileged)
+* Не запускать контейнеры под root (uid=0)
+* не использовать никаких security context constraints, кроме restricted
+* для хранения конф информации использовать secrets (доступ через volumeMount или secretKeyRef)
+* &#x20;настраивать TLS (zero trust)
+* Ingress/Egress прокси (nginx, envoy, mq-gateway, kafka-gateway, db-gateway) внутри проекта. Должны быть реализованы механизмы аутентификации и авторизации
+* не использовать HostNetwork
+* не использовать node ports
+* Использовать COPY, а не ADD
+
 ## Отдельные заметки
 
 Container Engine — предлагает набор инструментов для таких задач как создание и запуск контейнеров.
