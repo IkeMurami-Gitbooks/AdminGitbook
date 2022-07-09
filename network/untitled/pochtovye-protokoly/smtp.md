@@ -35,3 +35,5 @@ RCPT TO: hr@victim.com
 ## Клиенты
 
 Для отправки сообщений можно использовать postfix
+
+[MailHog](https://github.com/mailhog/MailHog) — Go smtp server с WEB UI интерфейсом. Позволяет удобно отлаживать и просматривать те сообщения, что отправляет ваше приложение.&#x20;
