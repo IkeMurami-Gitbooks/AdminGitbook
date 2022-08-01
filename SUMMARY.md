@@ -136,6 +136,7 @@
     * [find](operacionnye-sistemy/linux/komandy/find.md)
     * [vi](operacionnye-sistemy/linux/komandy/vi.md)
 * [Windows](operacionnye-sistemy/windows/README.md)
+  * [Packet Managers](operacionnye-sistemy/windows/packet-managers.md)
   * [Тулзы для администрирования](operacionnye-sistemy/windows/tulzy-dlya-administrirovaniya.md)
   * [Пути на системе](operacionnye-sistemy/windows/puti-na-sisteme.md)
   * [Работа с bat-никами](operacionnye-sistemy/windows/rabota-s-bat-nikami.md)
