@@ -12,7 +12,7 @@
 
 ```
 docker build .
-docker build -f MyDockerfile /path/to/dir
+docker build -f MyDockerfile -t ikemurami/myimage:v1.0 /path/to/dir/context
 ```
 
 ## Цепочка FROM в Dockerfile
