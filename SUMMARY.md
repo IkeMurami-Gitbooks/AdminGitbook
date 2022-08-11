@@ -107,6 +107,7 @@
     * [Установка графической оболочки](operacionnye-sistemy/linux/nastroika-debian/ustanovka-graficheskoi-obolochki.md)
     * [Firewall](operacionnye-sistemy/linux/nastroika-debian/firewall.md)
   * [Файловая система](operacionnye-sistemy/linux/failovaya-sistema/README.md)
+    * [proc](operacionnye-sistemy/linux/failovaya-sistema/proc.md)
     * [Получить полный путь до файла](operacionnye-sistemy/linux/failovaya-sistema/poluchit-polnyi-put-do-faila.md)
     * [Размеры дисков, директорий, файлов](operacionnye-sistemy/linux/failovaya-sistema/razmery-diskov-direktorii-failov.md)
     * [Работа с дисками](operacionnye-sistemy/linux/failovaya-sistema/rabota-s-diskami.md)
