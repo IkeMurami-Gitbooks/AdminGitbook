@@ -130,6 +130,7 @@
     * [Установить переменную окружения глобально](operacionnye-sistemy/linux/cases/ustanovit-peremennuyu-okruzheniya-globalno.md)
     * [RDP Clients](operacionnye-sistemy/linux/cases/rdp.md)
   * [Команды](operacionnye-sistemy/linux/komandy/README.md)
+    * [Список команд BusyBox](operacionnye-sistemy/linux/komandy/spisok-komand-busybox.md)
     * [source](operacionnye-sistemy/linux/komandy/source.md)
     * [grep](operacionnye-sistemy/linux/komandy/grep.md)
     * [ps](operacionnye-sistemy/linux/komandy/ps.md)
