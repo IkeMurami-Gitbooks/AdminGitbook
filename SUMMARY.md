@@ -220,6 +220,7 @@
     * [Практика](tools/vizualizaciya-otchetnost-rabota-s-sobytiyami/elasticsearch/praktika.md)
   * [Kafka](tools/vizualizaciya-otchetnost-rabota-s-sobytiyami/kafka.md)
   * [Rsyslog](tools/vizualizaciya-otchetnost-rabota-s-sobytiyami/rsyslog.md)
+* [RackTables](tools/racktables.md)
 * [Мониторинг сети, приложений и событий](tools/monitoring-seti-prilozhenii-i-sobytii/README.md)
   * [Prometheus](tools/monitoring-seti-prilozhenii-i-sobytii/prometheus.md)
   * [Zabbix](tools/monitoring-seti-prilozhenii-i-sobytii/zabbix.md)
