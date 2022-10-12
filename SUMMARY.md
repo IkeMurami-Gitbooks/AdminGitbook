@@ -15,6 +15,7 @@
   * [helm](pesochnicy-konteinery/kubernetes/helm.md)
   * [security](pesochnicy-konteinery/kubernetes/security.md)
   * [Learn](pesochnicy-konteinery/kubernetes/learn.md)
+  * [Conferences & Events](pesochnicy-konteinery/kubernetes/conferences-and-events.md)
 * [Container Runtime Interface (CRI)](pesochnicy-konteinery/container-runtime-interface-cri/README.md)
   * [containerd](pesochnicy-konteinery/container-runtime-interface-cri/containerd.md)
   * [CRI-O](pesochnicy-konteinery/container-runtime-interface-cri/cri-o.md)
