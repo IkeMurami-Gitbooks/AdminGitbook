@@ -10,6 +10,8 @@
 
 И еще **лучше** ресурс, чем предыдущий: [https://cloudsecdocs.com/](https://cloudsecdocs.com/)
 
+От Carlos (hacktricks) — [https://cloud.hacktricks.xyz/welcome/readme](https://cloud.hacktricks.xyz/welcome/readme)
+
 ## Примеры
 
 Построение безопасной архитектуры на основе микросервисов на примере AWS: [https://ab-lumos.medium.com/embedding-security-into-sdlc-using-reference-architectures-for-developers-29403c00fb3d](https://ab-lumos.medium.com/embedding-security-into-sdlc-using-reference-architectures-for-developers-29403c00fb3d)
