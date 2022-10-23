@@ -28,6 +28,37 @@ docker-compose -f some_config.yml up -d
 $ docker compose rm -f && docker compose build && docker compose up 
 ```
 
+Можно указать несколько конфигов, например:
+
+```
+$ ls -al
+docker-compose.prod.yml
+docker-compose.mocks.yml
+docker-compose.yml
+$ docker compose -f docker-compose.yml -f docker-compose.mocks.yml up
+```
+
+При этом, в docker-compose.yml — базовые настройки, а в docker-compose.mocks.yml — настройки, связанные с Mock-окружением.
+
+Например:
+
+```yaml
+# docker-compose.yml
+version: '3'
+
+networks:
+    default:
+        driver: bridge
+        enable_ipv6: true
+        
+# docker-compose.mocks.yml
+version: '3'
+
+services:
+    my-service:
+        image: ...
+```
+
 ## Синтаксис конфига
 
 man: [https://docs.docker.com/compose/compose-file/](https://docs.docker.com/compose/compose-file/)
