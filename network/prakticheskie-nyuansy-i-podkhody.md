@@ -5,7 +5,7 @@
 Основная информация из тг-каналов (даже скриншоты брать буду, фу)
 
 * [https://t.me/s0i37\_channel](https://t.me/s0i37\_channel)
-*
+* [https://t.me/in6uz](https://t.me/in6uz)
 
 ## Notes & Tricks
 
