@@ -1,6 +1,12 @@
 # nmap
 
+## nmap
+
+### nmap cheat sheet
+
 ![](../../.gitbook/assets/izobrazhenie.png)
+
+### nmap cases
 
 ```
 Небольшая подборочка моих запасенных команд для Nmap "на все случаи жизни".
@@ -36,7 +42,7 @@ SNMP Scan:
 nmap -P0 -v -sU -p 161 -oA snmp_scan <target>
 ```
 
-Есть скрипт `vulners.nse`
+### `vulners.nse`
 
 \-Pn - считать хосты как онлайн (пропуск этапа host discovery)
 
@@ -54,9 +60,19 @@ nmap -v -sn 192.168.1.0/24 - сканируем сеть. Порты не пок
 Example: nmap -sC -sV -oA nmap/myservice 192.168.1.1
 ```
 
+### nmap binary
+
 Бинарь можно взять отсюда: [https://github.com/andrew-d/static-binaries/tree/master/binaries/windows/x86](https://github.com/andrew-d/static-binaries/tree/master/binaries/windows/x86)
 
-## Билд для быстрого сканирования подсети
+### geoip-traceroute
+
+Узнаем, через какие страны идет трафик
+
+```
+nmap -sn --traceroute --script traceroute-geolocation example.com
+```
+
+## Быстрое сканирование подсети
 
 Отсюда взято: [https://t.me/webpwn/306](https://t.me/webpwn/306)
 

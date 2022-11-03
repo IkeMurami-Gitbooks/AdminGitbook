@@ -96,6 +96,7 @@
   * [icmp](network/untitled/icmp.md)
   * [ldap](network/untitled/ldap.md)
   * [cisco](network/untitled/cisco.md)
+* [Практические нюансы и подходы](network/prakticheskie-nyuansy-i-podkhody.md)
 
 ## Операционные системы
 
