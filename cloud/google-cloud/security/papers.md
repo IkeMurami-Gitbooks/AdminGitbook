@@ -9,6 +9,5 @@ PrivEsc от Rhino Security: [ссылка](https://rhinosecuritylabs.com/cloud-
 Yet Another Paper: [https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/](https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/)
 
 Google k8s engine собираем артефакты: \
-[https://osdfir.blogspot.com/2022/05/investigating-gke-container.html](https://osdfir.blogspot.com/2022/05/investigating-gke-container.html)\
-https://osdfir.blogspot.com/search/label/Cloud Forensics
+[https://osdfir.blogspot.com/2022/05/investigating-gke-container.html](https://osdfir.blogspot.com/2022/05/investigating-gke-container.html)
 
