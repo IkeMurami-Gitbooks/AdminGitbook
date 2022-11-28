@@ -126,6 +126,7 @@
   * [Troubleshooting](operacionnye-sistemy/linux/troubleshooting/README.md)
     * [Если нет звука](operacionnye-sistemy/linux/cases/net-zvuka.md)
   * [Cases](operacionnye-sistemy/linux/cases/README.md)
+    * [nohup Поднять сервер без привязки к ssh-сессии](operacionnye-sistemy/linux/cases/nohup-podnyat-server-bez-privyazki-k-ssh-sessii.md)
     * [Отвязать процесс от родителя в bash](operacionnye-sistemy/linux/cases/otvyazat-process-ot-roditelya-v-bash.md)
     * [Нормальная консоль (возможность удаления данных, а не ^\[\[D)](operacionnye-sistemy/linux/cases/normalnaya-konsol-vozmozhnost-udaleniya-dannykh-a-ne-d.md)
     * [Установка пакетов](operacionnye-sistemy/linux/cases/ustanovka-paketov.md)
