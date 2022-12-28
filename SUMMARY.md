@@ -161,7 +161,6 @@
 
 ## Tools
 
-* [git](tools/untitled.md)
 * [Развернуть свою виртуальную лабу на базе Windows](tools/razvernut-svoyu-virtualnuyu-labu-na-baze-windows.md)
 * [Свой веб-сайт бесплатно](tools/svoi-veb-sait-besplatno.md)
 * [Настройка почты](tools/nastroika-pochty/README.md)
