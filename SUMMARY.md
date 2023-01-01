@@ -2,34 +2,6 @@
 
 * [Admin Book](README.md)
 
-## Песочницы, контейнеры, виртуализация <a href="#pesochnicy-konteinery" id="pesochnicy-konteinery"></a>
-
-* [Red Hat OpenShift Container Platform (OCP)](pesochnicy-konteinery/openshift/README.md)
-  * [About](pesochnicy-konteinery/openshift/about.md)
-  * [OCP Components](pesochnicy-konteinery/openshift/ocp-components/README.md)
-    * [Platform services](pesochnicy-konteinery/openshift/ocp-components/platform-services.md)
-    * [Application services](pesochnicy-konteinery/openshift/ocp-components/application-services.md)
-    * [Developer services](pesochnicy-konteinery/openshift/ocp-components/developer-services.md)
-    * [OpenShift Kubernetes Engine](pesochnicy-konteinery/openshift/ocp-components/openshift-kubernetes-engine.md)
-  * [Security](pesochnicy-konteinery/openshift/security/README.md)
-    * [Container Security](pesochnicy-konteinery/openshift/security/container-security.md)
-    * [Podman](pesochnicy-konteinery/openshift/security/podman.md)
-    * [Kubernetes Security](pesochnicy-konteinery/openshift/security/kubernetes-security.md)
-    * [Securing Platform Services](pesochnicy-konteinery/openshift/security/securing-platform-services.md)
-    * [Vulnerabilities](pesochnicy-konteinery/openshift/security/vulnerabilities.md)
-    * [CIS](pesochnicy-konteinery/openshift/security/cis.md)
-* [VMWare](pesochnicy-konteinery/vmware/README.md)
-  * [Workspace ONE Access](pesochnicy-konteinery/vmware/workspace-one-access.md)
-  * [Workspace One UEM SSRF (AirWatch)](pesochnicy-konteinery/vmware/workspace-one-uem-ssrf-airwatch.md)
-  * [vSphere](pesochnicy-konteinery/vmware/vsphere.md)
-  * [vCenter](pesochnicy-konteinery/vmware/vcenter.md)
-  * [Learn](pesochnicy-konteinery/vmware/learn.md)
-  * [Horizon Security Server](pesochnicy-konteinery/vmware/horizon-security-server.md)
-  * [VMWare log4j](pesochnicy-konteinery/vmware/vmware-log4j.md)
-* [Tools](pesochnicy-konteinery/tools/README.md)
-  * [Moby](pesochnicy-konteinery/tools/moby.md)
-  * [Security](pesochnicy-konteinery/tools/security.md)
-
 ## Network
 
 * [Проблемы](network/problemy/README.md)
