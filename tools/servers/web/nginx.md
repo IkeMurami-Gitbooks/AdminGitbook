@@ -6,6 +6,20 @@
 
 Path Traversal in misconfig aliases: [https://www.acunetix.com/vulnerabilities/web/path-traversal-via-misconfigured-nginx-alias/](https://www.acunetix.com/vulnerabilities/web/path-traversal-via-misconfigured-nginx-alias/)
 
+## Сжатие
+
+* gzip + brotli
+
+## Поддержка HTTP/2
+
+Позволяет прогружать контент в кучу потоков (для HTTP/1.1 браузер ограничивает количество потоков)
+
+## Preload and HTTP/2 Push
+
+Preload — подгружает файлы статики еще в момент загрузки заголовков (как то подсовывает)
+
+HTTP/2 Push (объявлено deprecated, но еще поддерживаются)
+
 ## Проксирование трафика на другой сервис или контейнер
 
 ```
