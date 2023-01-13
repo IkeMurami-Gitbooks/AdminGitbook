@@ -2,6 +2,8 @@
 
 может проксировать не только http, но и tcp/udp/ssh.. трафик
 
+Настройка по кнопочкам: проект NginxConfig — [https://do.nginxconfig.io/](https://do.nginxconfig.io/)
+
 Path Traversal in misconfig aliases: [https://www.acunetix.com/vulnerabilities/web/path-traversal-via-misconfigured-nginx-alias/](https://www.acunetix.com/vulnerabilities/web/path-traversal-via-misconfigured-nginx-alias/)
 
 ## Проксирование трафика на другой сервис или контейнер
