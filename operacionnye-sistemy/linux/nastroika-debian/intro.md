@@ -18,3 +18,13 @@ apt update && apt upgrade
 WiFi\&Bluetooth: [https://ark.intel.com/content/www/ru/ru/ark/products/89450/intel-dual-band-wireless-ac-3165.html](https://ark.intel.com/content/www/ru/ru/ark/products/89450/intel-dual-band-wireless-ac-3165.html) \
 Eth: realtek pcie gbe family controller
 
+## Bash
+
+Некоторые консольные утилиты поддерживают автодополнение. Чтобы они корректно работали, доставьте следующий пакет:
+
+```
+brew install bash-completion
+```
+
+Если у вас zsh, смотри в соотв разделе.
+
