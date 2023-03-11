@@ -147,6 +147,7 @@
 * [VPN](tools/vpn/README.md)
   * [Pulse Secure SSL VPN](tools/vpn/pulse-secure-ssl-vpn.md)
   * [VPN WireGuard](tools/vpn/vpn-wireguard.md)
+  * [OpenVPN](tools/vpn/openvpn.md)
 * [CI/CD](tools/ci-cd/README.md)
   * [Gitlab CI](tools/ci-cd/gitlab-ci.md)
   * [TeamCity JetBrains](tools/ci-cd/teamcity-jetbrains.md)
