@@ -75,7 +75,7 @@
     * [Отвязать процесс от родителя в bash](operacionnye-sistemy/linux/cases/otvyazat-process-ot-roditelya-v-bash.md)
     * [Нормальная консоль (возможность удаления данных, а не ^\[\[D)](operacionnye-sistemy/linux/cases/normalnaya-konsol-vozmozhnost-udaleniya-dannykh-a-ne-d.md)
     * [Установка пакетов](operacionnye-sistemy/linux/cases/ustanovka-paketov.md)
-    * [Список открытых портов](operacionnye-sistemy/linux/cases/spisok-otkrytykh-portov.md)
+    * [Сетевые порты](operacionnye-sistemy/linux/cases/spisok-otkrytykh-portov.md)
     * [Установить переменную окружения глобально](operacionnye-sistemy/linux/cases/ustanovit-peremennuyu-okruzheniya-globalno.md)
     * [RDP Clients](operacionnye-sistemy/linux/cases/rdp.md)
   * [Команды](operacionnye-sistemy/linux/komandy/README.md)
