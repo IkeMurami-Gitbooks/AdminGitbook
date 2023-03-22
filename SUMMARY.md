@@ -103,6 +103,9 @@
   * [Файловый менеджер](operacionnye-sistemy/tools/failovyi-menedzher.md)
   * [Работа с архивами](operacionnye-sistemy/tools/rabota-s-arkhivami.md)
   * [Terminals](operacionnye-sistemy/tools/terminals.md)
+  * [osquery](operacionnye-sistemy/tools/osquery.md)
+  * [saltstack](operacionnye-sistemy/tools/saltstack.md)
+  * [chef](operacionnye-sistemy/tools/chef.md)
 
 ## Tools
 
