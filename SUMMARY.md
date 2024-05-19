@@ -110,6 +110,7 @@
 ## Tools
 
 * [Развернуть свою виртуальную лабу на базе Windows](tools/razvernut-svoyu-virtualnuyu-labu-na-baze-windows.md)
+* [S3](tools/s3.md)
 * [Покупка доменов](tools/pokupka-domenov.md)
 * [Настройка почты](tools/nastroika-pochty/README.md)
   * [Docker](tools/nastroika-pochty/docker.md)
@@ -126,6 +127,7 @@
   * [клиенты](tools/databases/klienty.md)
   * [MongoDB](tools/databases/mongodb.md)
   * [postgres](tools/databases/postgres.md)
+  * [Redis](tools/databases/redis.md)
   * [mysql](tools/databases/mysql.md)
   * [H2 Database](tools/databases/h2-database.md)
   * [Experiments](tools/databases/experiments/README.md)
