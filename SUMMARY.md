@@ -117,6 +117,7 @@
   * [iRedMail](tools/nastroika-pochty/iredmail.md)
   * [Postfix (SMTP)](tools/nastroika-pochty/nastroika-postfix.md)
   * [Dovecot (IMAP)](tools/nastroika-pochty/dovecot-imap.md)
+  * [RoundCube](tools/nastroika-pochty/roundcube.md)
   * [Другие инструкции](tools/nastroika-pochty/drugie-instrukcii.md)
   * [fail2ban](tools/nastroika-pochty/fail2ban.md)
 * [Splunk](tools/splunk.md)
