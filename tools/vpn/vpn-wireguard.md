@@ -70,7 +70,3 @@ PersistentKeepalive = 25
 
 Server: `sudo wg-quick up /etc/wireguard/wg0.conf` (we can use `systemd`: `sudo systemctl start wg-quick@wg0.service`)\
 Client: `sudo wg-quick up /etc/wireguard/wg0.conf`
-
-## Еще статьи про wireguard
-
-Про настройку клиентов за NAT: [https://habr.com/en/post/481838/](https://habr.com/en/post/481838/)
